@@ -1,6 +1,6 @@
 #poojasingh
 #nov2020
-#prepping files for FST calculation using poolfstat
+#prepping files for FST calculation using poolfstat and running the calc
 #this if for JP #Coadaptree
 
 
