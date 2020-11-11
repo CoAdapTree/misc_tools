@@ -1,2 +1,2 @@
 # misc_tools
-various nifty scripts
+various nifty scripts used in the coadaptree project
